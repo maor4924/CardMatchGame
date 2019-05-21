@@ -1,0 +1,34 @@
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll.config
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\EntityFramework.dll
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\EntityFramework.xml
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csprojAssemblyReference.cache
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CopyComplete
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll.config
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\EntityFramework.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\EntityFramework.xml
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csprojAssemblyReference.cache
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CopyComplete
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.pdb

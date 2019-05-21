@@ -1,0 +1,24 @@
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\bin\Debug\EntityFramework.dll
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\bin\Debug\EntityFramework.xml
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csprojAssemblyReference.cache
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csproj.CoreCompileInputs.cache
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csproj.CopyComplete
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\bin\Debug\EntityFramework.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\bin\Debug\EntityFramework.xml
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csprojAssemblyReference.cache
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csproj.CoreCompileInputs.cache
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csproj.CopyComplete
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.pdb

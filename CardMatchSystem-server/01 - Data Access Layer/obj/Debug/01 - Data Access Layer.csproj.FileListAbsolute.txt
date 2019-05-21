@@ -1,0 +1,12 @@
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\bin\Debug\EntityFramework.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\bin\Debug\EntityFramework.xml
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\obj\Debug\01 - Data Access Layer.csprojAssemblyReference.cache
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\obj\Debug\01 - Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\obj\Debug\01 - Data Access Layer.csproj.CopyComplete
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\obj\Debug\01 - Data Access Layer.dll
+C:\Users\maor4\source\repos\CardMatchSystem-server\01 - Data Access Layer\obj\Debug\01 - Data Access Layer.pdb
